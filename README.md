@@ -1,7 +1,7 @@
 <h1>Hi, I'm Prince! <br/><a href="https://github.com/Prince-Kudzo-Modzaka">Data Science</a>, <a href="https://www.linkedin.com/in/prince-119/">Cybersecurity Professional</a></h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Pythone script (AlgoExpert)</b>
+- <b>Malware-Analysis</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>PowerShell</b>
