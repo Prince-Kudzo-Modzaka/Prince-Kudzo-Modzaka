@@ -15,6 +15,8 @@
  [Network Asset & Uptime Checker](https://github.com/Prince-Kudzo-Modzaka/Network_Host_checker)
 *Python tool for automated network discovery and uptime monitoring using ping subprocesses.*
 
+ [Apache Web Server Threat Hunter](https://github.com/Prince-Kudzo-Modzaka/Apache-Log-Threat-Hunter)
+*Python script for parsing Apache web logs, detecting attack signatures, and exporting structured JSON threat reports.*
 
 
 
