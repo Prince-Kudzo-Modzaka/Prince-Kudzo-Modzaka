@@ -1,25 +1,24 @@
 
-# Hi, I'm Prince! 👋
+# Hi, I'm Prince! 
 
 ## Cybersecurity Professional & Data Scientist
 
 ### [Connect with me on LinkedIn](https://www.linkedin.com/in/prince-119/)
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-🛡️ [WARDENStealer Malware Investigation](https://github.com/Prince-Kudzo-Modzaka/Malware-Analysis)
+ [WARDENStealer Malware Investigation](https://github.com/Prince-Kudzo-Modzaka/Malware-Analysis)
 *Static and dynamic analysis of a .NET info-stealer.* 
 
 
+ [Network Asset & Uptime Checker](https://github.com/Prince-Kudzo-Modzaka/Network-Host-Checker)
+*Python tool for automated network discovery and uptime monitoring using ping subprocesses.*
 
 
 
 
-
-
-
-[linkedin]:[https://www.linkedin.com/in/prince-119/]
+[LinkedIn]:[https://www.linkedin.com/in/prince-119/]
 
 <!--
 **Prince-Kudzo-Modzaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
