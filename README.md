@@ -12,7 +12,7 @@
 *Static and dynamic analysis of a .NET info-stealer.* 
 
 
- [Network Asset & Uptime Checker](https://github.com/Prince-Kudzo-Modzaka/Network-Host-Checker)
+ [Network Asset & Uptime Checker](https://github.com/Prince-Kudzo-Modzaka/Network_Host_checker)
 *Python tool for automated network discovery and uptime monitoring using ping subprocesses.*
 
 
